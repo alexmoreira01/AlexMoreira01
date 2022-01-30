@@ -6,7 +6,7 @@
 
 - Iniciando no universo de desenvolvimento
 
-- Trabalho como desenvolvedor web junior
+- Trabalho como desenvolvedor web júnior
 
 <br>
   
