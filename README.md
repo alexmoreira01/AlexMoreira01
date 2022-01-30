@@ -31,7 +31,7 @@
 ## &nbsp;Links
 
 <p align="left" style="background:red">
-<a href="www.linkedin.com/in/alex-moreira-de-andrade-539a52203" target="_blank">
+<a href="https://www.linkedin.com/in/alex-moreira-de-andrade-539a52203" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-AlexMoreira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/alex__moreira0/" target="_blank">
