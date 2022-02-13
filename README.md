@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AlexMoreira01/c4fa348e471ece30d634c088bf079bbd/raw/b615be3d4f14d9e2e2e94e117b24c023271c3418/github.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AlexMoreira01/c4fa348e471ece30d634c088bf079bbd/raw/b29b5d740ea3f88c1eb0608aa3481daf5b61d10f/github.svg"/>
 <h1 align="left">Alex Moreira de Andrade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexMoreira01&color=red" alt="Profile views" /> </p>
 
@@ -16,9 +16,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 ## Estou estudando
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
