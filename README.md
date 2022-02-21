@@ -1,7 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AlexMoreira01/c4fa348e471ece30d634c088bf079bbd/raw/b29b5d740ea3f88c1eb0608aa3481daf5b61d10f/github.svg"/>
 <h1 align="left">Alex Moreira de Andrade</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexMoreira01&color=red" alt="Profile views" /> </p> -->
-<br>
 
 - Estou cursando Ads
 
