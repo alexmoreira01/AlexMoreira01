@@ -2,6 +2,7 @@
 <h1 align="left">Alex Moreira de Andrade</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexMoreira01&color=red" alt="Profile views" /> </p> -->
 <br>
+
 - Estou cursando Ads
 
 - Iniciando no universo de desenvolvimento
@@ -10,7 +11,7 @@
 
 <br>
   
-## &nbsp;Trabalho com
+## 🛠 &nbsp;Trabalho com
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -22,7 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## Estou estudando
+## 👨‍💻 &nbsp; Estou estudando
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -31,7 +32,7 @@
 
 <br>
 
-## &nbsp;Links
+## 😄 &nbsp;Links
 
 <p align="left" style="background:red">
 <a href="https://www.linkedin.com/in/alex-moreira-de-andrade-539a52203" target="_blank">
