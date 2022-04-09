@@ -6,6 +6,8 @@
 
 - Iniciando no universo de desenvolvimento
 
+- Sempre em busca do meu próximo nível
+
 - Trabalho como desenvolvedor web júnior
 
 <br>
