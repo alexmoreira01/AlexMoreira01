@@ -4,11 +4,9 @@
 
 - Estou cursando Ads
 
-- Iniciando no universo de desenvolvimento
-
 - Sempre em busca do meu próximo nível
 
-- Trabalho como desenvolvedor web júnior
+- Desenvolvedor web júnior
 
 <br>
   
