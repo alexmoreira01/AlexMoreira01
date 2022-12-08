@@ -1,14 +1,18 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AlexMoreira01/c4fa348e471ece30d634c088bf079bbd/raw/b29b5d740ea3f88c1eb0608aa3481daf5b61d10f/github.svg"/>
-<h1 align="left">Alex Moreira de Andrade</h1>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AlexMoreira01/c4fa348e471ece30d634c088bf079bbd/raw/b29b5d740ea3f88c1eb0608aa3481daf5b61d10f/github.svg"/> -->
+
+<div align="left">
+
+<h1 align="left">✌ Alex Moreira de Andrade</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexMoreira01&color=red" alt="Profile views" /> </p> -->
 
-- Estou cursando Ads
+- Formado em Análise e Desenvolvimento de Sistemas
 
 - Sempre em busca do meu próximo nível
 
-- Desenvolvedor web júnior
+- Desenvolvedor FullStack Júnior
 
 <br>
+
   
 ## 🛠 &nbsp;Trabalho com
 
@@ -43,7 +47,13 @@
  <img align="center" src="https://img.shields.io/badge/-alex__moreira0-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+</div>
 
+<!-- <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexMoreira01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMoreira01&layout=compact&langs_count=7&theme=github_dark"/>
+</div> -->
 
 
 
