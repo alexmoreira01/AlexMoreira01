@@ -35,21 +35,13 @@
 ###  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Moreira%20de%20Andrade-0078D4?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/alex-moreira-de-andrade/)](https://www.linkedin.com/in/alex-moreira-de-andrade/) 
-[![Instagram Badge](https://img.shields.io/badge/-Alex%20Moreira%20de%20Andrade-0078D4?logo=instagram&logoColor=white&style=flat-square&link=https://www.instagram.com/alex__moreira0/)](https://www.instagram.com/alex__moreira0/) 
+[![Instagram Badge](https://img.shields.io/badge/-alex__moreira0-0078D4?logo=instagram&logoColor=white&style=flat-square&link=https://www.instagram.com/alex__moreira0/)](https://www.instagram.com/alex__moreira0/) 
 [![Hotmail Badge](https://img.shields.io/badge/-alex.moreira.andrade@hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white&style=flat-square)](mailto:alex.moreira.andrade@hotmail.com)
 
-
-
-  
-<!--
-[![Hotmail Badge](https://img.shields.io/badge/-alex.moreira.andrade@hotmail.com-0078D4?logo=microsoftoutlook)](mailto:alex.moreira.andrade@hotmail.com)
--->
-
+<!--[![Hotmail Badge](https://img.shields.io/badge/-alex.moreira.andrade@hotmail.com-0078D4?logo=microsoftoutlook)](mailto:alex.moreira.andrade@hotmail.com)-->
 ###  
-  
-  
+ 
 <!--
-
 <div align="left">
 <h1 align="left">✌ Alex Moreira de Andrade</h1>
 - Formado em Análise e Desenvolvimento de Sistemas
@@ -92,8 +84,6 @@
 </p>
 </div>
 
-**AlexMoreira01/AlexMoreira01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -105,4 +95,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
