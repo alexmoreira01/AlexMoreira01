@@ -1,19 +1,53 @@
-<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AlexMoreira01/c4fa348e471ece30d634c088bf079bbd/raw/b29b5d740ea3f88c1eb0608aa3481daf5b61d10f/github.svg"/> -->
+<h1 align="left">Hi 👋! I'm Alex Moreira</h1>
+
+###
+
+<p align="left">
+  Full-stack web developer, graduated in systems analysis and development.
+  <br>
+  <br>
+  Always in search of my next level, and never stopping learning.
+  <br>
+  <br>
+  Obsession beats talent every time.
+ </p>
+
+###
+
+<h2 align="left">I code with:</h2>
+
+###
 
 <div align="left">
-
-<h1 align="left">✌ Alex Moreira de Andrade</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexMoreira01&color=red" alt="Profile views" /> </p> -->
-
-- Formado em Análise e Desenvolvimento de Sistemas
-
-- Sempre em busca do meu próximo nível
-
-- Desenvolvedor FullStack Júnior
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" width="52" alt="codeigniter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+</div>
 
 <br>
+  <br>
 
+
+
+
+###  
   
+  
+<!--
+
+<div align="left">
+<h1 align="left">✌ Alex Moreira de Andrade</h1>
+- Formado em Análise e Desenvolvimento de Sistemas
+- Sempre em busca do meu próximo nível
+- Desenvolvedor FullStack Júnior
+<br>
+
 ## 🛠 &nbsp;Trabalho com
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -49,16 +83,6 @@
 </p>
 </div>
 
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexMoreira01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMoreira01&layout=compact&langs_count=7&theme=github_dark"/>
-</div> -->
-
-
-
-
-  <!--.
 **AlexMoreira01/AlexMoreira01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
