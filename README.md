@@ -6,7 +6,7 @@
   Full-stack web developer, graduated in systems analysis and development.
   <br>
   <br>
-  Always in search of my next level, and never stopping learning.
+  Always looking for my next level, and never stopping learning.
   <br>
   <br>
   Obsession beats talent every time.
