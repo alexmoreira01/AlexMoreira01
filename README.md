@@ -29,12 +29,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
-
+ 
 <br>
-  <br>
+
+###  
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alex%20Moreira%20de%20Andrade-0078D4?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/alex-moreira-de-andrade/)](https://www.linkedin.com/in/alex-moreira-de-andrade/) 
+[![Instagram Badge](https://img.shields.io/badge/-Alex%20Moreira%20de%20Andrade-0078D4?logo=instagram&logoColor=white&style=flat-square&link=https://www.instagram.com/alex__moreira0/)](https://www.instagram.com/alex__moreira0/) 
+[![Hotmail Badge](https://img.shields.io/badge/-alex.moreira.andrade@hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white&style=flat-square)](mailto:alex.moreira.andrade@hotmail.com)
 
 
 
+  
+<!--
+[![Hotmail Badge](https://img.shields.io/badge/-alex.moreira.andrade@hotmail.com-0078D4?logo=microsoftoutlook)](mailto:alex.moreira.andrade@hotmail.com)
+-->
 
 ###  
   
