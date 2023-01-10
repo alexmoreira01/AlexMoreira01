@@ -9,7 +9,7 @@
   Always looking for my next level, and never stopping learning.
   <br>
   <br>
-  Obsession beats talent every time.
+  Obsession beats talent, every time.
  </p>
 
 ###
