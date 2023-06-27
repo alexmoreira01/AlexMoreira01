@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Full-stack web developer, graduated in analysis and development of systems.
+  Full-stack developer, graduated in analysis and development of systems.
   <br>
   <br>
   Always looking for my next level, and never stopping learning.
